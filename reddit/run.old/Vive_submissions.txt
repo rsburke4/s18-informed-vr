@@ -1,0 +1,383 @@
+[{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224326,
+    "id": "2xkf99",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkf99/htc_surprises_with_a_new_vr_headset_vive/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC surprises with a new VR headset 'Vive', partnering with Valve"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224461,
+    "id": "2xkfhu",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfhu/htc_reveals_virtual_reality_headset_with_valve_at/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC reveals virtual reality headset with Valve at MWC"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224488,
+    "id": "2xkfjs",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfjs/htcs_vive_is_a_highend_vr_headset_being_made_with/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC's Vive is a high-end VR headset being made with Valve's help"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224521,
+    "id": "2xkfma",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfma/htc_vive_this_is_valves_virtual_reality_headset/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC Vive: This Is Valve's Virtual Reality Headset"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224559,
+    "id": "2xkfo5",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfo5/htc_partners_with_valve_to_create_the_vive_vr/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC partners with Valve to create the Vive VR headset for gaming"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224597,
+    "id": "2xkfq1",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfq1/htc_joins_forces_with_valve_for_new_vive_virtual/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC joins forces with Valve for new 'Vive' virtual reality headset"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224791,
+    "id": "2xkg2h",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkg2h/htc_wants_to_claim_its_piece_of_the_vr_headset/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC wants to claim its piece of the VR headset space with the Re Vive"
+},
+{
+    "author": "500500",
+    "body": "\n\nhttps://www.youtube.com/watch?v=GzS89cw50B0\n\nhttp://www.htcvr.com/ \n\nscreens\n\nhttp://i.imgur.com/17JpJOZ.png\n\nhttp://i.imgur.com/qgOAhpk.png\n\nhttp://i.imgur.com/Xah6YDB.png\n",
+    "comments": {
+        "cp2ibkf": {
+            "author": "cptnpiccard",
+            "body": "\"Ladies and gentlemen, this is the HTC Vive\"\n\n[waits for applause, hollering, hooting, minds being blown]\n\ncricketnoise.wav\n\n",
+            "comments": {},
+            "created": 1425349529,
+            "id": "cp2ibkf"
+        }
+    },
+    "created": 1425225209,
+    "id": "2xkgrs",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkgrs/announcement_video/",
+    "subreddit_id": "t5_378go",
+    "title": "Announcement Video"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {
+        "cp148vr": {
+            "author": "djabatt",
+            "body": "This video shows what the future will be like in a few years indeed. ",
+            "comments": {},
+            "created": 1425242515,
+            "id": "cp148vr"
+        },
+        "cp1w5sf": {
+            "author": "Mildlynicecabbie",
+            "body": "I WANT!!",
+            "comments": {},
+            "created": 1425312384,
+            "id": "cp1w5sf"
+        }
+    },
+    "created": 1425225448,
+    "id": "2xkh5u",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkh5u/vive_promotional_video/",
+    "subreddit_id": "t5_378go",
+    "title": "Vive Promotional video -"
+},
+{
+    "author": "500500",
+    "body": "Hi.  Lets make a great community .  Show your support by subscribing .  (Hit that round button in the side bar.) \n\n\n--------------------------\n\nReactions from elsewhere on reddit:  \n\n* [pcmasterrace](https://www.reddit.com/r/pcmasterrace/comments/2xkexu/htc_vr_with_valve/)\n\n* [technology](https://www.reddit.com/r/technology/comments/2xkert/valve_announces_vr_headset_called_vive_in/)\n\n* [occulus](https://www.reddit.com/r/oculus/comments/2xkeoj/htc_to_release_vive_vr_headset_with_valve/)  \n\n* [pcgaming](https://www.reddit.com/r/pcgaming/comments/2xkf15/valves_vr_headset_is_called_the_vive_and_made_by/)\n\n",
+    "comments": {
+        "cp0wh6r": {
+            "author": "adejesus123",
+            "body": "[Here](http://i.imgur.com/wxxFI9q.jpg) is the logo in case anyone needs it. Maybe for a subreddit banner?",
+            "comments": {
+                "cp0wmf4": {
+                    "author": "500500",
+                    "body": "Thanks.  Now we need a subreddit banner maker!\n\n\n",
+                    "comments": {
+                        "cp0xcci": {
+                            "author": "mirdagle",
+                            "body": "Try /r/redditlogos",
+                            "comments": {},
+                            "created": 1425229633,
+                            "id": "cp0xcci"
+                        },
+                        "cp0xsa1": {
+                            "author": "[deleted]",
+                            "body": "[deleted]",
+                            "comments": {},
+                            "created": 1425230506,
+                            "id": "cp0xsa1"
+                        }
+                    },
+                    "created": 1425228188,
+                    "id": "cp0wmf4"
+                }
+            },
+            "created": 1425227888,
+            "id": "cp0wh6r"
+        },
+        "cp0wp0s": {
+            "author": "500500",
+            "body": "Anyone who wants to mod please just ask.  I'm just trying to build an inclusive community for everyone or maybe just a collection of links.   Send a mod mail if you can help with the CSS, promotion and content.  Looking for contributors  and so will add anyone at this stage.  \n\nEdit.  ok enough mods for now.  Thanks for your interest.  I will add more mods on the basis of community activity and contributions.  Who knows if the current mods will actually buy the product and care about it and this subreddit in the future.",
+            "comments": {},
+            "created": 1425228332,
+            "id": "cp0wp0s"
+        },
+        "cp0xd4k": {
+            "author": "deepcube",
+            "body": "I'm excited, but that resolution is comparable to the dk2. I think it'll still suffer from the screen door effect. ",
+            "comments": {
+                "cp0z7c7": {
+                    "author": "blackout24",
+                    "body": "Isn't 1200x1080 per screen per eye better than a single 1080p panel with two lenses infront of it?",
+                    "comments": {
+                        "cp0zb0p": {
+                            "author": "deepcube",
+                            "body": "Yes but just slightly. 240 more columns per eye (assuming you can see all columns in both the vive and the dk2).",
+                            "comments": {
+                                "cp348vd": {
+                                    "author": "itcamefromvr",
+                                    "body": "Is the resolution confirmed as 2400x1080? The official \"1200x1080 per eye\" is ambiguous to me, might as well mean 2160x1200.",
+                                    "comments": {},
+                                    "created": 1425405683,
+                                    "id": "cp348vd"
+                                }
+                            },
+                            "created": 1425233419,
+                            "id": "cp0zb0p"
+                        }
+                    },
+                    "created": 1425233228,
+                    "id": "cp0z7c7"
+                }
+            },
+            "created": 1425229676,
+            "id": "cp0xd4k"
+        },
+        "cp0xkin": {
+            "author": "StormCrawler",
+            "body": "I think it's really smart of Valve to outsource this to HTC. HTC makes smartphones (super compact hardware.) and I think that their experience with that medium will translate well when making a VR headset.",
+            "comments": {
+                "cp14keo": {
+                    "author": "blndcavefsh",
+                    "body": "Good point. If you're moving it around with your head it ought to be light",
+                    "comments": {},
+                    "created": 1425243112,
+                    "id": "cp14keo"
+                }
+            },
+            "created": 1425230081,
+            "id": "cp0xkin"
+        },
+        "cp11fnb": {
+            "author": "Mega_Nerd",
+            "body": "I just hope I'll be able to use this with my laptop.",
+            "comments": {
+                "cp19xn9": {
+                    "author": "jonamaton",
+                    "body": "You will. If you have a &lt;$3000 gaming laptop. ",
+                    "comments": {
+                        "cp2fvzf": {
+                            "author": "cciv",
+                            "body": "If you have a &gt;$3000 laptop, you'll be very disappointed and confused.",
+                            "comments": {},
+                            "created": 1425345175,
+                            "id": "cp2fvzf"
+                        }
+                    },
+                    "created": 1425253013,
+                    "id": "cp19xn9"
+                },
+                "cp2fwwa": {
+                    "author": "cciv",
+                    "body": "We use our DK2 with a laptop, though it is a high end one with proper high framerate outputs.  ",
+                    "comments": {
+                        "cp2u46c": {
+                            "author": "Mega_Nerd",
+                            "body": "Which graphics card does it have? Mine has the geforce 820m",
+                            "comments": {
+                                "cp2wzf4": {
+                                    "author": "cciv",
+                                    "body": "980m",
+                                    "comments": {},
+                                    "created": 1425392809,
+                                    "id": "cp2wzf4"
+                                }
+                            },
+                            "created": 1425383887,
+                            "id": "cp2u46c"
+                        }
+                    },
+                    "created": 1425345222,
+                    "id": "cp2fwwa"
+                }
+            },
+            "created": 1425237315,
+            "id": "cp11fnb"
+        },
+        "cp123ra": {
+            "author": "gophercuresself",
+            "body": "So is there any word on the FOV?",
+            "comments": {},
+            "created": 1425238543,
+            "id": "cp123ra"
+        },
+        "cp14l5n": {
+            "author": "blndcavefsh",
+            "body": "Do we have any pictures of the controllers or the \"base station?\"",
+            "comments": {},
+            "created": 1425243148,
+            "id": "cp14l5n"
+        },
+        "cp18mjf": {
+            "author": "Uberdump",
+            "body": "Really excited about this. It probably sounds sad but I hate Facebook with a passion so their deal with Oculus saddened me. (Will probably buy anyway though!)\n\nThis news however has perked my VR excitement levels once again.",
+            "comments": {},
+            "created": 1425250577,
+            "id": "cp18mjf"
+        },
+        "cp1aaha": {
+            "author": "[deleted]",
+            "body": "[deleted]",
+            "comments": {},
+            "created": 1425253775,
+            "id": "cp1aaha"
+        },
+        "cp1ka53": {
+            "author": "ValiantPixel",
+            "body": "I LOVE it. And the fact that they provided a solid release window is the most exciting part. Can someone confirm whether it works with Mac computers?",
+            "comments": {
+                "cp1v6tb": {
+                    "author": "Danielvonluchau",
+                    "body": "Knowing Valve it probably will. If it doesn't then you can always install windows on your mac",
+                    "comments": {},
+                    "created": 1425310569,
+                    "id": "cp1v6tb"
+                },
+                "cp3yklr": {
+                    "author": "JayKayAu",
+                    "body": "It will. \n\nRemember that they'll be building it to work with their Linux-based Steam Machines as well, which means it'll work for OS X.",
+                    "comments": {
+                        "cp4ocna": {
+                            "author": "ValiantPixel",
+                            "body": "Great! I didn't know that the upcoming Steam Machines are to be based on Linux. Thank you for officially getting me on the Hype Train! ",
+                            "comments": {},
+                            "created": 1425517220,
+                            "id": "cp4ocna"
+                        }
+                    },
+                    "created": 1425467672,
+                    "id": "cp3yklr"
+                }
+            },
+            "created": 1425273460,
+            "id": "cp1ka53"
+        },
+        "cp1m7dm": {
+            "author": "KirillianAmurawr",
+            "body": "I just hope i will be able to order it in Russia. Oculus lost a lot of customers because of their delivery problems... some even had to rebuy from ebay :/",
+            "comments": {},
+            "created": 1425278496,
+            "id": "cp1m7dm"
+        },
+        "cp1tm45": {
+            "author": "BelievesItsNotButter",
+            "body": "I strongly believe that any VR headset with less than 4k resolution is dead in the water. I've used both of the Oculus headsets, and the resolution is so atrocious that there's no way I'd ever use it for games / media more than for the novelty of it. \n\nVR requires presence, and you can't get it when you're looking at a wall of coloured squares hovering in front of your face.",
+            "comments": {
+                "cp38j0f": {
+                    "author": "Oceas",
+                    "body": "The DK1 and DK2 (I have both) are worlds lower in quality than the current developer versions at Oculus and Valve, so you haven't even seen the current state of the art.  Most typical home computers can't even render high quality 1080p realtime 3D on a monitor, let alone 4K VR. Trying to release a 4K HMD right now is a bit ludicrous for all but early adopters who spend top dollar on gaming machines at home.\n",
+                    "comments": {},
+                    "created": 1425412198,
+                    "id": "cp38j0f"
+                }
+            },
+            "created": 1425307226,
+            "id": "cp1tm45"
+        },
+        "cp28jht": {
+            "author": "NoxiousRaven",
+            "body": "What's are the I/O for these?",
+            "comments": {},
+            "created": 1425332295,
+            "id": "cp28jht"
+        }
+    },
+    "created": 1425226136,
+    "id": "2xkidz",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkidz/first_impressions_expectations_and_questions/",
+    "subreddit_id": "t5_378go",
+    "title": "First impressions, expectations and questions ?"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425226210,
+    "id": "2xkiif",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkiif/htc_teams_with_steam_maker_for_virtual_reality/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC Teams With Steam Maker for Virtual Reality Challenge to Sony"
+},
+{
+    "author": "Expiscor",
+    "body": "",
+    "comments": {
+        "cp15ze4": {
+            "author": "ihatehulkamania",
+            "body": "According to [this article](http://www.wantchinatimes.com/news-subclass-cnt.aspx?id=20150227000054&amp;cid=1204) posted to /r/oculus before the official HTC announcement, the headset will launch at $300 before the end of Q1 2015 (I'm taking this to mean by March 31st). Hopefully this will be the price of the devkit but I couldn't speculate as to how that might relate to the consumer version pricing -hopefully it'll be the same, otherwise unwise buyers might buy the cheaper version and have a subpar VR experience. \n\nEDIT: Also, I'm not too sure about this source; they claim that Oculus \"met with huge success after it launched the Oculus Rift in 2012\" and that Project Morpheus has already been released, so take it with a grain of salt.",
+            "comments": {
+                "cp163ul": {
+                    "author": "Expiscor",
+                    "body": "Awesome, thanks for the reply",
+                    "comments": {},
+                    "created": 1425245903,
+                    "id": "cp163ul"
+                }
+            },
+            "created": 1425245668,
+            "id": "cp15ze4"
+        },
+        "cp2wjdl": {
+            "author": "finlayvscott",
+            "body": "Well a rough estimation of $300- 350.",
+            "comments": {},
+            "created": 1425391728,
+            "id": "cp2wjdl"
+        }
+    },
+    "created": 1425242156,
+    "id": "2xlecz",
+    "link": "https://www.reddit.com/r/Vive/comments/2xlecz/any_idea_what_price_were_looking_at/",
+    "subreddit_id": "t5_378go",
+    "title": "Any idea what price we're looking at?"
+},

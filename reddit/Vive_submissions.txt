@@ -1,0 +1,350 @@
+[{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224326,
+    "id": "2xkf99",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkf99/htc_surprises_with_a_new_vr_headset_vive/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC surprises with a new VR headset 'Vive', partnering with Valve"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224461,
+    "id": "2xkfhu",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfhu/htc_reveals_virtual_reality_headset_with_valve_at/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC reveals virtual reality headset with Valve at MWC"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224488,
+    "id": "2xkfjs",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfjs/htcs_vive_is_a_highend_vr_headset_being_made_with/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC's Vive is a high-end VR headset being made with Valve's help"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224521,
+    "id": "2xkfma",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfma/htc_vive_this_is_valves_virtual_reality_headset/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC Vive: This Is Valve's Virtual Reality Headset"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224559,
+    "id": "2xkfo5",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfo5/htc_partners_with_valve_to_create_the_vive_vr/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC partners with Valve to create the Vive VR headset for gaming"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224597,
+    "id": "2xkfq1",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfq1/htc_joins_forces_with_valve_for_new_vive_virtual/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC joins forces with Valve for new 'Vive' virtual reality headset"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224791,
+    "id": "2xkg2h",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkg2h/htc_wants_to_claim_its_piece_of_the_vr_headset/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC wants to claim its piece of the VR headset space with the Re Vive"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224326,
+    "id": "2xkf99",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkf99/htc_surprises_with_a_new_vr_headset_vive/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC surprises with a new VR headset 'Vive', partnering with Valve"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224461,
+    "id": "2xkfhu",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfhu/htc_reveals_virtual_reality_headset_with_valve_at/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC reveals virtual reality headset with Valve at MWC"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224488,
+    "id": "2xkfjs",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfjs/htcs_vive_is_a_highend_vr_headset_being_made_with/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC's Vive is a high-end VR headset being made with Valve's help"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224521,
+    "id": "2xkfma",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfma/htc_vive_this_is_valves_virtual_reality_headset/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC Vive: This Is Valve's Virtual Reality Headset"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224559,
+    "id": "2xkfo5",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfo5/htc_partners_with_valve_to_create_the_vive_vr/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC partners with Valve to create the Vive VR headset for gaming"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224597,
+    "id": "2xkfq1",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfq1/htc_joins_forces_with_valve_for_new_vive_virtual/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC joins forces with Valve for new 'Vive' virtual reality headset"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224791,
+    "id": "2xkg2h",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkg2h/htc_wants_to_claim_its_piece_of_the_vr_headset/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC wants to claim its piece of the VR headset space with the Re Vive"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224326,
+    "id": "2xkf99",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkf99/htc_surprises_with_a_new_vr_headset_vive/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC surprises with a new VR headset 'Vive', partnering with Valve"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224461,
+    "id": "2xkfhu",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfhu/htc_reveals_virtual_reality_headset_with_valve_at/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC reveals virtual reality headset with Valve at MWC"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224488,
+    "id": "2xkfjs",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfjs/htcs_vive_is_a_highend_vr_headset_being_made_with/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC's Vive is a high-end VR headset being made with Valve's help"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224521,
+    "id": "2xkfma",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfma/htc_vive_this_is_valves_virtual_reality_headset/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC Vive: This Is Valve's Virtual Reality Headset"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224559,
+    "id": "2xkfo5",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfo5/htc_partners_with_valve_to_create_the_vive_vr/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC partners with Valve to create the Vive VR headset for gaming"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224597,
+    "id": "2xkfq1",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfq1/htc_joins_forces_with_valve_for_new_vive_virtual/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC joins forces with Valve for new 'Vive' virtual reality headset"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224791,
+    "id": "2xkg2h",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkg2h/htc_wants_to_claim_its_piece_of_the_vr_headset/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC wants to claim its piece of the VR headset space with the Re Vive"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224326,
+    "id": "2xkf99",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkf99/htc_surprises_with_a_new_vr_headset_vive/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC surprises with a new VR headset 'Vive', partnering with Valve"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224461,
+    "id": "2xkfhu",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfhu/htc_reveals_virtual_reality_headset_with_valve_at/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC reveals virtual reality headset with Valve at MWC"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224488,
+    "id": "2xkfjs",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfjs/htcs_vive_is_a_highend_vr_headset_being_made_with/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC's Vive is a high-end VR headset being made with Valve's help"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224521,
+    "id": "2xkfma",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfma/htc_vive_this_is_valves_virtual_reality_headset/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC Vive: This Is Valve's Virtual Reality Headset"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224559,
+    "id": "2xkfo5",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfo5/htc_partners_with_valve_to_create_the_vive_vr/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC partners with Valve to create the Vive VR headset for gaming"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224597,
+    "id": "2xkfq1",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfq1/htc_joins_forces_with_valve_for_new_vive_virtual/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC joins forces with Valve for new 'Vive' virtual reality headset"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224791,
+    "id": "2xkg2h",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkg2h/htc_wants_to_claim_its_piece_of_the_vr_headset/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC wants to claim its piece of the VR headset space with the Re Vive"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224326,
+    "id": "2xkf99",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkf99/htc_surprises_with_a_new_vr_headset_vive/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC surprises with a new VR headset 'Vive', partnering with Valve"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224461,
+    "id": "2xkfhu",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfhu/htc_reveals_virtual_reality_headset_with_valve_at/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC reveals virtual reality headset with Valve at MWC"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224488,
+    "id": "2xkfjs",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfjs/htcs_vive_is_a_highend_vr_headset_being_made_with/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC's Vive is a high-end VR headset being made with Valve's help"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224521,
+    "id": "2xkfma",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfma/htc_vive_this_is_valves_virtual_reality_headset/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC Vive: This Is Valve's Virtual Reality Headset"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224559,
+    "id": "2xkfo5",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfo5/htc_partners_with_valve_to_create_the_vive_vr/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC partners with Valve to create the Vive VR headset for gaming"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224597,
+    "id": "2xkfq1",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkfq1/htc_joins_forces_with_valve_for_new_vive_virtual/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC joins forces with Valve for new 'Vive' virtual reality headset"
+},
+{
+    "author": "500500",
+    "body": "",
+    "comments": {},
+    "created": 1425224791,
+    "id": "2xkg2h",
+    "link": "https://www.reddit.com/r/Vive/comments/2xkg2h/htc_wants_to_claim_its_piece_of_the_vr_headset/",
+    "subreddit_id": "t5_378go",
+    "title": "HTC wants to claim its piece of the VR headset space with the Re Vive"
+},
