@@ -1,0 +1,10 @@
+Current:
+Pulls whatever is in the Posts table on the database an displays it in a jTable object
+
+To Do:
+- Some sort of update/refresh button
+- Pull the other tables down from the server (tabs/seperate windows?)
+
+Known issues (kinda)
+- The way that the code handels the date that comes with the reddit 
+  posts is bugged or something because it always shows a 1970 date in the table
