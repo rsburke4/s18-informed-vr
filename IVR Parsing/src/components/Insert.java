@@ -41,10 +41,8 @@ public class Insert {
         for (Entry tmp:entryTable) {
             writer.write(tmp.toString());
         }
-
-
     }
-
+    
     public Entry postParser(String input){
         Entry temp = new Entry();
         if (input.contains("\"author\"")){
@@ -78,7 +76,9 @@ public class Insert {
 
     public void commentParser(String input){
         Entry temp = new Entry();
-
+        /*
+        #### UNDER CONSTRUCTION ####
+        */
     }
     public String  authorParser(String input){
         return  input.substring(input.indexOf(": \"") + 3, input.indexOf("\","));
