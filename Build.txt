@@ -1,0 +1,8 @@
+SET FOREIGN_KEY_CHECKS = 0;
+DROP TABLE Child_Post;
+DROP TABLE Parent_Post;
+DROP TABLE User;
+DROP TABLE Posts;
+SET FOREIGN_KEY_CHECKS = 1;
+SOURCE CreateTable.txt;
+SOURCE Populate.txt;
